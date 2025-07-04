@@ -1,0 +1,15 @@
+.card{
+    border: 1px solid rgba(19, 19, 19, 0.1);
+}
+.btn-border{
+    border-color: rgba(14, 122, 129, 0.15);
+}
+.border-b{
+    border: 1px solid rgba(19, 19, 19, 0.1);
+}
+.active{
+    background-color: rgba(14, 122, 129, 0.1);
+    border-radius: 9999px;
+    border: 1px solid #0E7A81;
+    color: #131313;    
+}
